@@ -1,8 +1,8 @@
 # Parcial Práctico - Unidad 3: Programación Móvil
 ## Proyecto Final: TaskFlow App
 
-*Estudiante:* Santiago Santí  
-*Fecha de entrega:* 22 de Mayo de 2026  
+*Estudiante:* Santiago Bernal Gomez  
+*Fecha de entrega:* 28 de Mayo de 2026  
 *Materia:* Programación Móvil
 
 ---
